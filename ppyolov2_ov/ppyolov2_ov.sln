@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ppyolov2_ov", "ppyolov2_ov.vcxproj", "{76FB427D-776C-4015-928F-DCB701F84CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Debug|x64.ActiveCfg = Debug|x64
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Debug|x64.Build.0 = Debug|x64
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Debug|x86.Build.0 = Debug|Win32
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Release|x64.ActiveCfg = Release|x64
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Release|x64.Build.0 = Release|x64
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Release|x86.ActiveCfg = Release|Win32
+		{76FB427D-776C-4015-928F-DCB701F84CDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB48EA4-D520-4BDF-9FA4-600341C6CDEB}
+	EndGlobalSection
+EndGlobal
